@@ -1,0 +1,99 @@
+html, body {
+	font-family: "Lucida Console", monospace;
+	font-size: 16px;
+	height: 100%;
+	width: 100%;
+	margin: 0;
+}
+
+a, a:visited {
+	text-decoration: none;
+	color: #f11aaa;
+	cursor: pointer;
+}
+
+#page-title {
+	margin-top: -1%;
+}
+
+#navbar {
+	float: right;
+	width: auto;
+	margin: 10% 8% .5% 8%;
+	padding: 5px;
+	border: 2px solid black;
+}
+
+.row {
+	margin: 10% 8% 10% 8%;
+}
+
+#main-content {
+	float: left;
+	width: 65%;
+	height: 540px;
+	overflow: auto;
+}
+
+#sidebar {
+	float: right;
+	width: 25%;
+}
+
+.sidebar-fig {
+	float: right;
+	width: 25%;
+	margin: 0;
+}
+
+.sidebar-img {
+	float: right;
+	width: 100%;
+	border: 2px solid black;
+}
+
+.sidebar-cap {
+	float: right;
+	width: 100%;
+	margin-top: 2%;
+}
+
+hr {
+	height: 2px;
+	border-width: 0;
+	color: black;
+	background-color: black
+}
+
+input, button {
+	font-family: "Lucida Console", monospace;
+	float: left;
+	margin: 0 2px 0 0;
+	padding: 5px;
+	border: 2px solid black;
+}
+
+input:focus {
+	outline: none;
+}
+
+#gallery-wrap {
+	display: inline-block;
+	line-height: 0;
+	column-count: 3;
+	column-gap: 0px;
+	-webkit-column-count: 3;
+	-webkit-column-gap: 0px;
+	-moz-column-count: 3;
+	-moz-column-gap: 0px;
+	margin: 0 auto 0 auto;
+}
+
+#gallery-wrap img {
+	width: 100% !important;
+	height: auto !important;
+}
+
+#gallery-wrap img:hover {
+	opacity: 0.8;
+}

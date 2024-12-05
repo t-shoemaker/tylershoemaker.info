@@ -18,6 +18,9 @@
 <div class="row">
     <div id="main-content" class="column">
         <h3>Lectures and Presentations</h3>
+        <h4>2025</h4>
+        <p>"The Program, not the Prompt." Vernacular AI. New York University.
+        February 7</p>
         <h4>2024</h4>
         <p>"Good Old-Fashioned Reading." The Fate of Professional Reading:
         Reports from the Field. Department of English, University of Iowa.

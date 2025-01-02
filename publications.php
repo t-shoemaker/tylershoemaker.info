@@ -34,7 +34,7 @@
         target="_blank">Concatenative Textuality</a>]." In <i> Quellcodekritik:
         Zur Philologie von Algorithmen</i> [<i>Source Code Criticism: On the
         Philology of Algorithms</i>]. Eds. Hannes Bajohr and Markus Krajewski.
-        Berlin: August Verlag, 2023</p>
+        Berlin: August Verlag, 2024</p>
         <p>"Sonic Materialism and/as Method." In <a
         href="https://www.bloomsbury.com/uk/the-bloomsbury-handbook-of-sonic-methodologies-9781501338755/"
         target="_blank"><i>The Bloomsbury Handbook of Sonic

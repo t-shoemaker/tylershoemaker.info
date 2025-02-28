@@ -44,13 +44,6 @@
         <p>WhatEvery1Says <a href="./research/we1s">+</a></p>
         <p style="margin-left: 35px">Text mining hundreds of thousands of media
         articles that discuss the humanities.</p>
-        <hr>
-        <h4>Gallery, Sketches, and More</h4>
-        <p><a href="./research/project-gallery">This gallery</a> hosts examples
-        of a number of my smaller digital interventions and explorations (along
-        with selected work from the projects above). Supporting code for these
-        projects may be found on my <a href="https://github.com/t-shoemaker"
-        target="_blank">GitHub Account</a>.</p> 
     </div>
 <?php include("../inc/sidebar.php");?>
 

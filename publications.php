@@ -20,9 +20,11 @@
     <div id="main-content" class="column">
         <h3>Publications</h3>
         <h4>Journal Articles</h4>
-        <p>"Unreasonable Characters." <i>Amodern</i> 12: "Alternative Print
-        Technologies and Revolution." Eds. Andrew Amstutz and Thomas Mullaney
-        (forthcoming)</p>
+        <p>"<a
+        href="https://amodern.net/article/unreasonable-characters"
+        target="_blank">Unreasonable Characters</a>." <i>Amodern</i> 12:
+        "Countertype: Typography, Alternative Print Technologies, and Everyday
+        Ephemera." Ed. Andrew Amstutz (2025)</p>
         <p>"<a href="https://scholarworks.iu.edu/journals/index.php/textual/article/view/27153"
         target="_blank">Error Aligned</a>." <i>Textual Cultures</i> 12, no. 1
         (Spring 2019): 155-182</p>

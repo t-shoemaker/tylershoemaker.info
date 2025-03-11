@@ -4,4 +4,4 @@
     <a href="publications">Publications</a>
     <a href="events">Events</a>
 </div>
-</br>
+<br>

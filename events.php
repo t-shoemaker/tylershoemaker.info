@@ -20,6 +20,8 @@
     <div id="main-content" class="column">
         <h3>Lectures and Presentations</h3>
         <h4>2025</h4>
+        <p>"The History Engine." Ethos of the Unknown. University of
+        California, Santa Barbara. May 23</p>
         <p>"The Program, not the Prompt." Vernacular AI. New York University.
         February 7</p>
         <h4>2024</h4>

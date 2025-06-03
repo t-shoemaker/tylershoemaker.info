@@ -27,12 +27,12 @@
         frameworks of literary and media studies. Particular areas of interests
         include large language models, hermeneutics and interpretability, media
         archaeology, and semiotics. Before joining the faculty at Texas A&amp;M,
-        Tyler was a Neukom Fellow at the <a href="https://neukom.dartmouth.edu"
+        Tyler was a fellow at the <a href="https://neukom.dartmouth.edu"
         target="_blank">Neukom Institute for Computational Science</a> and a
-        Postdoctoral Scholar affiliated with the <a
+        postdoctoral scholar affiliated with the <a
         href="https://datalab.ucdavis.edu" target="_blank">UC Davis
-        DataLab</a>.</p>
-        <p><a href="docs/shoemaker_cv.pdf">Full CV (.pdf)</a></p>
+        DataLab</a>.</p> <p><a href="docs/shoemaker_cv.pdf">Full CV
+        (.pdf)</a></p>
     </div>
 <?php include("./inc/sidebar.php");?>
 

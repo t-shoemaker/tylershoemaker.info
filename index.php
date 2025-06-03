@@ -19,17 +19,19 @@
 <div class="row">
     <div id="main-content" class="column">
         <h3>About</h3>
-        <p>Tyler Shoemaker is a Neukom Fellow at the <a
-        href="https://neukom.dartmouth.edu" target="_blank">Neukom Institute
-        for Computational Science</a>. He conducts research on language
-        technology, focusing on how methods in natural language processing
-        (NLP) crosscut the interpretive and theoretic frameworks of literary
-        and media studies. Prior to joining the Neukom Institute, Tyler was a
+        <p>Tyler Shoemaker is an assistant professor of critical AI in the
+        <a href="https://artsci.tamu.edu/english/index.html",
+        target="_blank">Department of English</a> at Texas A&amp;M University.
+        He conducts research on language technology, focusing on how methods in
+        natural language processing crosscut the interpretive and theoretic
+        frameworks of literary and media studies. Particular areas of interests
+        include large language models, hermeneutics and interpretability, media
+        archaeology, and semiotics. Before joining the faculty at Texas A&amp;M,
+        Tyler was a Neukom Fellow at the <a href="https://neukom.dartmouth.edu"
+        target="_blank">Neukom Institute for Computational Science</a> and a
         Postdoctoral Scholar affiliated with the <a
         href="https://datalab.ucdavis.edu" target="_blank">UC Davis
-        DataLab</a>. There, he developed NLP methods across a variety of
-        research domains, ranging from early modern print to environmental and
-        health sciences.</p>
+        DataLab</a>.</p>
         <p><a href="docs/shoemaker_cv.pdf">Full CV (.pdf)</a></p>
     </div>
 <?php include("./inc/sidebar.php");?>

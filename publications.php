@@ -20,6 +20,8 @@
     <div id="main-content" class="column">
         <h3>Publications</h3>
         <h4>Journal Articles</h4>
+        <p>"Good Old-Fashioned Reading." <i>New German Critique</i>: "Semiotic
+        Machines" (forthcoming)</p>
         <p>"<a
         href="https://amodern.net/article/unreasonable-characters"
         target="_blank">Unreasonable Characters</a>." <i>Amodern</i> 12:

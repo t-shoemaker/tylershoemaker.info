@@ -17,6 +17,11 @@
       if (section) {
         section.innerHTML = html;
         section.classList.remove("loading");
+
+        // If loading the publications HTML, populate from JSON
+        if (sectionId === "publications") {
+          await renderPublications();
+        }
       }
     } catch (error) {
       console.error(`Error loading ${sectionId}:`, error);

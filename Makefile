@@ -1,6 +1,6 @@
 .PHONY: all build deploy clean
 
-EXCLUDES = .git .gitignore .htaccess Makefile docs/*.bib
+EXCLUDES = .git .gitignore .htaccess Makefile README docs/*.bib
 RSYNC_EXCLUDES = $(addprefix --exclude=,$(EXCLUDES))
 
 all: build

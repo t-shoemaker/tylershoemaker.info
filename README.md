@@ -6,7 +6,15 @@ This is my personal website.
 Deployment
 ----------
 
-To deploy the site, simply run the following:
+To deploy the site, first create a `.env` file with your credentials:
+
+```sh
+DEPLOY_USER=<username>
+DEPLOY_HOST=<hostname>
+DEPLOY_PATH=<path/to/deploy/directory>
+```
+
+Then run:
 
 ```sh
 make deploy

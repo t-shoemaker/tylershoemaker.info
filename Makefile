@@ -1,12 +1,12 @@
 -include .env
 export
 
-.PHONY: all build deploy clean
+.PHONY: build deploy clean
 
 EXCLUDES = .env .git .gitignore .htaccess Makefile README.md docs/*.bib
 RSYNC_EXCLUDES = $(addprefix --exclude=,$(EXCLUDES))
 
-all: build
+build: docs/publications.json
 
 docs/publications.json: docs/publications.bib
 	pandoc $< -f biblatex -t csljson -o $@

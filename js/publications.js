@@ -66,7 +66,7 @@
   function formatPub(pub) {
     try {
       const title = pub.URL
-        ? `<a href="${pub.URL}" target="_blank">${pub.title}</a>`
+        ? `<a href="${pub.URL}">${pub.title}</a>`
         : pub.title;
 
       const venue = pub["container-title"] || pub.publisher || "";

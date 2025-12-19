@@ -140,6 +140,15 @@
 
   // Initialize everything
   async function init() {
+    // Handle 404s by redirected bad URLs to "About"
+    if (
+      window.location.pathname !== "/" && 
+      window.location.pathname !== "/index.html"
+    ) {
+      window.location.href = "/#about";
+      return;
+    }
+
     // Load all content first
     await loadAllContent();
 
